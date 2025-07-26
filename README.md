@@ -1,5 +1,5 @@
 # TV Shows Search App
-
+Swaraj
 A simple web application to search for TV shows using the TVMaze API.
 
 ![Screenshot (4)](https://github.com/SidharthaPaidi/TV-Shows-Search/assets/119948577/1a93ddf6-6bba-4c24-b5f1-a73d21da8ae5)
